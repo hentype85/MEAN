@@ -18,6 +18,8 @@ create a database on https://www.mongodb.com/en/atlas/database
 
 ## install mongoose driver `npm install mongoose`
 
+## install cors `npm install cors`
+
 ## run the api `npm run dev`
 
 
